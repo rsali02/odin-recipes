@@ -1,0 +1,43 @@
+#body,
+h1,
+p,
+h2 {
+    margin: 0px;
+}
+
+.images {
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    margin: 30px;
+    vertical-align: top;
+}
+
+img {
+    display: block;
+    width: 400px;
+    height: auto;
+    margin: 10px 0;
+}
+
+#content {
+    text-align: center;
+}
+
+button {
+    height: 30px;
+    width: 100px;
+    background-color: red;
+}
+
+.view-recipe {
+    font-family: "Roboto", sans-serif;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
